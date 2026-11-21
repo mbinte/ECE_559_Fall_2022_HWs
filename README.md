@@ -10,13 +10,13 @@ The original handouts carry the course designation **ECE/CS 559**.
 
 | Homework | Topic | Assignment | Solution |
 | --- | --- | --- | --- |
-| [HW01](hw01-logic-networks/) | Boolean logic with threshold networks | [Prompt](hw01-logic-networks/assignment.pdf) | [Derivation and diagrams](hw01-logic-networks/solution-report.pdf) |
-| [HW02](hw02-perceptron/) | Binary perceptron and learning-rate experiments | [Prompt](hw02-perceptron/assignment.pdf) | [Report](hw02-perceptron/solution-report.pdf) |
-| [HW03](hw03-mnist-perceptron/) | Multicategory perceptron on MNIST | [Prompt](hw03-mnist-perceptron/assignment.pdf) | [Report](hw03-mnist-perceptron/solution-report.pdf) |
-| [HW04](hw04-curve-fitting/) | Curve fitting with online backpropagation | [Prompt](hw04-curve-fitting/assignment.pdf) | [Report](hw04-curve-fitting/solution-report.pdf) |
-| [HW05](hw05-shape-classification/) | Neural classification of nine geometric shapes | [Prompt](hw05-shape-classification/assignment.pdf) | [Report](hw05-shape-classification/solution-report.pdf) |
-| [HW06](hw06-denoising-autoencoder/) | Denoising autoencoder and k-means clustering | [Prompt](hw06-denoising-autoencoder/assignment.pdf) | [Report](hw06-denoising-autoencoder/solution-report.pdf) |
-| [HW07](hw07-name-generation/) | Character-level name generation with an LSTM | [Prompt](hw07-name-generation/assignment.pdf) | [Report](hw07-name-generation/solution-report.pdf) |
+| [HW01](hw01-logic-networks/) | Boolean logic with threshold networks | [Assignment PDF](hw01-logic-networks/assignment.pdf) | [Derivation and diagrams](hw01-logic-networks/solution-report.pdf) |
+| [HW02](hw02-perceptron/) | Binary perceptron and learning-rate experiments | [Assignment PDF](hw02-perceptron/assignment.pdf) | [Report](hw02-perceptron/solution-report.pdf) |
+| [HW03](hw03-mnist-perceptron/) | Multicategory perceptron on MNIST | [Assignment PDF](hw03-mnist-perceptron/assignment.pdf) | [Report](hw03-mnist-perceptron/solution-report.pdf) |
+| [HW04](hw04-curve-fitting/) | Curve fitting with online backpropagation | [Assignment PDF](hw04-curve-fitting/assignment.pdf) | [Report](hw04-curve-fitting/solution-report.pdf) |
+| [HW05](hw05-shape-classification/) | Neural classification of nine geometric shapes | [Assignment PDF](hw05-shape-classification/assignment.pdf) | [Report](hw05-shape-classification/solution-report.pdf) |
+| [HW06](hw06-denoising-autoencoder/) | Denoising autoencoder and k-means clustering | [Assignment PDF](hw06-denoising-autoencoder/assignment.pdf) | [Report](hw06-denoising-autoencoder/solution-report.pdf) |
+| [HW07](hw07-name-generation/) | Character-level name generation with an LSTM | [Assignment PDF](hw07-name-generation/assignment.pdf) | [Report](hw07-name-generation/solution-report.pdf) |
 
 ## Run the solutions
 
