@@ -37,8 +37,18 @@ HW07 inference accepts a single starting letter and prints 20 names. Use `--seed
 
 | Dataset | Used in | Included data |
 | --- | --- | --- |
-| [MNIST](datasets/mnist/MNIST/raw/) | HW03, HW06 | 60,000 training images and 10,000 test images, with labels |
+| [MNIST ZIP](datasets/mnist.zip) | HW03, HW06 | 60,000 training images and 10,000 test images, with labels |
 | [2D geometric shapes](hw05-shape-classification/data/geometry-90000.zip) | HW05 | 90,000 RGB images across nine classes |
 | [Names](hw07-name-generation/data/names.txt) | HW07 | 2,000 names provided with the assignment |
+
+### Set up MNIST for HW03 and HW06
+
+From the repository root, extract the four MNIST files:
+
+```bash
+unzip -n datasets/mnist.zip 'mnist/MNIST/raw/*' -d datasets
+```
+
+Both solutions read the extracted files from `datasets/mnist/MNIST/raw/`.
 
 HW02 and HW04 generate their own samples as part of the experiment. The geometry dataset is credited to [Anas El Korchi, Mendeley Data](https://doi.org/10.17632/wzr2yv7r53.1).
